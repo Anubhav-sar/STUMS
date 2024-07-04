@@ -1,0 +1,2 @@
+# STUMS
+Student Management System
