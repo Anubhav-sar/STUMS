@@ -3,10 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="css/style.css">
+    <title>Student Management System</title>
+    <link rel="stylesheet" href="css/indexstyle.css">
 </head>
 <body>
-    
+    <div class="main">
+    <h1>Welcome to School Management system</h1>
+    <div class= "button_container">
+        <button class="button-56"><a href="#">Student Result</a></button>
+        <button class="button-56"><a href="#">Admin</a></button>
+    </div> 
+    </div>
 </body>
 </html>
